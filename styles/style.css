@@ -88,6 +88,6 @@ main section img {
 }
 .grid {
     display: grid;
-    height: 750px;
+    height: 950px;
     grid-template-columns: 1fr 1fr;
 }
