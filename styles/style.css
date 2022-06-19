@@ -86,3 +86,8 @@ footer {
 main section img {
     box-sizing: border-box;
 }
+.grid {
+    display: grid;
+    height: 750px;
+    grid-template-columns: 1fr 1fr;
+}
