@@ -4,7 +4,7 @@ div#content{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     /*text-align: center*/;
 }
-nav a, #hero-msg h1, #hero-msg h4, .button-box, main section {
+nav a, #hero-msg h1, #hero-msg h4, .button-box, main span {
     text-align: center;
 }
 footer a {
@@ -90,4 +90,8 @@ main section img {
     display: grid;
     height: 950px;
     grid-template-columns: 1fr 1fr;
+}
+#pic-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
